@@ -1,5 +1,7 @@
-### Playwright Tutorial Full Course - https://bit.ly/playwright-tutorial-automation-testing
 ### Playwright API Testing Tutorial - https://bit.ly/playwright-api-testing-tutorial
+### Postman Collections - https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10
+
+### Playwright Automation Full Course - https://bit.ly/playwright-tutorial-automation-testing
 ### Playwright with Dynamics 365 CRM - https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6
 ### Playwright with Azure DevOps Pipeline - Coming soon.
 
